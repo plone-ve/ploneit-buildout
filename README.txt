@@ -10,4 +10,12 @@ nella cartella conf sono presenti differenti file di configurazione
 
 il file buildout.cfg attualmente contiene un semplice riferimento al file di configurazione da utilizzare
 
+Prerequisiti
+------------
 
+Installare il motore di Geometria per GIS - gli files di intestazione per lo sviluppo di, 
+per Debian / Ubuntu Linux eseguire il comando seguente::
+
+.. code-block:: console
+
+  $ sudo apt-get install libgeos-dev
