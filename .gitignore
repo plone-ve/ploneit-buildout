@@ -3,10 +3,37 @@
 # Ignore eggs
 *.egg-info
 *.egg
+*.EGG
+*.EGG-INFO
 # Ignore backups
 *~
+*.tmp*
+*.swp
 .*.swp
 \#*
 # Ignore mo
 *.mo
+*.kpf
+*.wpr
+.*.cfg
+.installed.cfg
+.mr.developer.cfg
+.hg/
+.bzr/
+.svn/
+.project
+.pydevproject
+bin/
+build/
+develop-eggs/
+downloads/
+eggs/
+fake-eggs/
+parts/
+dist/
+var/
 
+
+
+# OSX
+.DS_Store
