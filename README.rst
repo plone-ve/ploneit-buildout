@@ -18,4 +18,4 @@ per Debian / Ubuntu Linux eseguire il comando seguente::
 
 .. code-block:: console
 
-  $ sudo apt-get install libgeos-dev
+    $ sudo apt-get install libgeos-dev
