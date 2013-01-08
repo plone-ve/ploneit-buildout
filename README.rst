@@ -14,7 +14,7 @@ Prerequisiti
 ------------
 
 Installare il motore di Geometria per GIS - gli files di intestazione per lo sviluppo di, 
-per Debian / Ubuntu Linux eseguire il comando seguente::
+per Debian / Ubuntu Linux eseguire il comando seguente:
 
 .. code-block:: console
 
